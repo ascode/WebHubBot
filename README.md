@@ -25,7 +25,7 @@ Database: MongoDB
 
 * Install MongoDB and start without configuration
 * Install Scrapy
-* Install Python dependent modules：pymongo、json、requests
+* Install Python dependent modules：pymongo、json(simplejson)、requests
 * Modify the configuration by needed, such as the interval time, the number of threads, etc.
 
 ### Start up
