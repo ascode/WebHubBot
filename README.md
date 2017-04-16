@@ -25,7 +25,7 @@ Database: MongoDB
 
 * Install MongoDB and start without configuration
 * Install Scrapy(如果安装失败，可检查gcc是否安装，Scrapy (1.3.3)版本是否需要降低等，安装低版本：pip install Scrapy==1.3.3)
-* Install Python dependent modules：pymongo、json、requests
+* Install Python dependent modules：pymongo、json(simplejson)、requests
 * Modify the configuration by needed, such as the interval time, the number of threads, etc.
 
 ### Start up
